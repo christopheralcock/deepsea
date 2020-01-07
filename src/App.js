@@ -17,8 +17,8 @@ export default class App extends React.Component {
     };
 
     this.game = new Game([
-      { name: "chris", colour: "Red" },
-      { name: "sophie", colour: "Green" }
+      { name: "Chris", colour: "Red" },
+      { name: "Sophie", colour: "Green" }
     ]);
     window.game = this.game;
 
@@ -81,9 +81,9 @@ export default class App extends React.Component {
     // console.log(this.game);
 
     const path = this.displayPath();
-
     return (
       <div className="game-container">
+        <div className="title">Deep Sea Adventure</div>
         <ControlPanel game={this.game} />
         {path}
       </div>
