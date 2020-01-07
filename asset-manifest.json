@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/deepsea/static/css/main.df1ba17b.chunk.css",
-    "main.js": "/deepsea/static/js/main.a2dd9f11.chunk.js",
-    "main.js.map": "/deepsea/static/js/main.a2dd9f11.chunk.js.map",
+    "main.css": "/deepsea/static/css/main.7221f7a1.chunk.css",
+    "main.js": "/deepsea/static/js/main.4cf2e85f.chunk.js",
+    "main.js.map": "/deepsea/static/js/main.4cf2e85f.chunk.js.map",
     "runtime-main.js": "/deepsea/static/js/runtime-main.372a241d.js",
     "runtime-main.js.map": "/deepsea/static/js/runtime-main.372a241d.js.map",
     "static/js/2.f3bb3aa7.chunk.js": "/deepsea/static/js/2.f3bb3aa7.chunk.js",
     "static/js/2.f3bb3aa7.chunk.js.map": "/deepsea/static/js/2.f3bb3aa7.chunk.js.map",
     "index.html": "/deepsea/index.html",
-    "precache-manifest.fec6749612af6e70dfc576a5a1e2b92c.js": "/deepsea/precache-manifest.fec6749612af6e70dfc576a5a1e2b92c.js",
+    "precache-manifest.86ada0a26dcb492f2e629eee08d637d7.js": "/deepsea/precache-manifest.86ada0a26dcb492f2e629eee08d637d7.js",
     "service-worker.js": "/deepsea/service-worker.js",
-    "static/css/main.df1ba17b.chunk.css.map": "/deepsea/static/css/main.df1ba17b.chunk.css.map",
+    "static/css/main.7221f7a1.chunk.css.map": "/deepsea/static/css/main.7221f7a1.chunk.css.map",
     "static/js/2.f3bb3aa7.chunk.js.LICENSE": "/deepsea/static/js/2.f3bb3aa7.chunk.js.LICENSE",
     "static/media/logo.svg": "/deepsea/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.372a241d.js",
     "static/js/2.f3bb3aa7.chunk.js",
-    "static/css/main.df1ba17b.chunk.css",
-    "static/js/main.a2dd9f11.chunk.js"
+    "static/css/main.7221f7a1.chunk.css",
+    "static/js/main.4cf2e85f.chunk.js"
   ]
 }

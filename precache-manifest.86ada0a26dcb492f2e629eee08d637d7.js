@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "60e4000a870c80bd8b9c99f25d71ef7b",
+    "revision": "c47606269227695ec94a1cc799556eb5",
     "url": "/deepsea/index.html"
   },
   {
-    "revision": "549d2dde82ed6538d335",
-    "url": "/deepsea/static/css/main.df1ba17b.chunk.css"
+    "revision": "c2238ad7a6f952619df5",
+    "url": "/deepsea/static/css/main.7221f7a1.chunk.css"
   },
   {
     "revision": "4b0e30f753de07dca2dc",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/deepsea/static/js/2.f3bb3aa7.chunk.js.LICENSE"
   },
   {
-    "revision": "549d2dde82ed6538d335",
-    "url": "/deepsea/static/js/main.a2dd9f11.chunk.js"
+    "revision": "c2238ad7a6f952619df5",
+    "url": "/deepsea/static/js/main.4cf2e85f.chunk.js"
   },
   {
     "revision": "81ace2721e913d71f20f",
