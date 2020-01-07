@@ -17,8 +17,8 @@ export default class App extends React.Component {
     };
 
     this.game = new Game([
-      { name: "Chris", colour: "Red" },
-      { name: "Sophie", colour: "Green" }
+      { name: "Player 1", colour: "Red" },
+      { name: "Player 2", colour: "Green" }
     ]);
     window.game = this.game;
 

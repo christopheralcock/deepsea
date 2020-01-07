@@ -44,6 +44,7 @@ export default function ControlPanel({ game }) {
 
   return (
     <div className="control-panel">
+      <div className="oxygen-level">Oxygen Level: {game.oxygenLevel}</div>
       <div className="player-status">{playerInfo}</div>
       <br />
       <button onClick={e => game.move()}>Move</button>
